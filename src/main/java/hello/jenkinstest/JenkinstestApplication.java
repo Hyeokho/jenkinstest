@@ -11,4 +11,3 @@ public class JenkinstestApplication {
 	}
 
 }
-에러지!
